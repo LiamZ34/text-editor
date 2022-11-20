@@ -1,6 +1,7 @@
 # text-editor
 
 the purpose of this project is to build a text editor that runs on the browser, the acceptance criteria for this application is as follows 
+
 GIVEN a text editor web application
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
